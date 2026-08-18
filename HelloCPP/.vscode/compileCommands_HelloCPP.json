@@ -1,0 +1,10 @@
+[
+	{
+		"file": "C:\\Users\\fello\\OneDrive\\Documentos\\Unreal Projects\\HelloCPP\\Source\\HelloCPP\\HelloCPP.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\fello\\OneDrive\\Documentos\\Unreal Projects\\HelloCPP\\.vscode\\compileCommands_HelloCPP\\HelloCPP.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	}
+]
