@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "TesteBP_trechosAulaEditor Editor Win64 Development (TesteBP_trechosAula)",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\fello\\OneDrive\\Documentos\\Unreal Projects\\TesteBP_trechosAula\\.vscode\\compileCommands_TesteBP_trechosAula.json"
+            ]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\fello\\OneDrive\\Documentos\\Unreal Projects\\TesteBP_trechosAula\\.vscode\\compileCommands_Default.json"
+            ]
+        }
+    ],
+    "version": 4
+}

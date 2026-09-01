@@ -1,0 +1,18 @@
+[
+	{
+		"file": "C:\\Users\\fello\\OneDrive\\Documentos\\Unreal Projects\\TesteBP_trechosAula\\Source\\TesteBP_trechosAula\\GridManager.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\fello\\OneDrive\\Documentos\\Unreal Projects\\TesteBP_trechosAula\\.vscode\\compileCommands_Default\\TesteBP_trechosAula.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\fello\\OneDrive\\Documentos\\Unreal Projects\\TesteBP_trechosAula\\Source\\TesteBP_trechosAula\\TesteBP_trechosAula.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\fello\\OneDrive\\Documentos\\Unreal Projects\\TesteBP_trechosAula\\.vscode\\compileCommands_Default\\TesteBP_trechosAula.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	}
+]
